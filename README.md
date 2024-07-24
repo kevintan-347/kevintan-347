@@ -6,7 +6,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=React&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=black)
 
-- 🔭 👀 I’m a Flutter Application Developer.
+- 🐦 A Flutter Application Developer.
 - 🌱 Currently learning Kotlin & Swift 
 - 💬 Ask me about Mobile Development
 
